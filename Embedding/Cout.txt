@@ -1,0 +1,2343 @@
+Total file: Total vulnerable file: 
+Preprocess (1 or 0)? Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/1.txt
+Processed vuln file 1
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/2.txt
+Processed vuln file 2
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/3.txt
+Processed vuln file 3
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/4.txt
+Processed vuln file 4
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/5.txt
+Processed vuln file 5
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/6.txt
+Processed vuln file 6
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/7.txt
+Processed vuln file 7
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/8.txt
+Processed vuln file 8
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/9.txt
+Processed vuln file 9
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/10.txt
+Processed vuln file 10
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/11.txt
+Processed vuln file 11
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/12.txt
+Processed vuln file 12
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/13.txt
+Processed vuln file 13
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/14.txt
+Processed vuln file 14
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/15.txt
+Processed vuln file 15
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/16.txt
+Processed vuln file 16
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/17.txt
+Processed vuln file 17
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/18.txt
+Processed vuln file 18
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/19.txt
+Processed vuln file 19
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/20.txt
+Processed vuln file 20
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/21.txt
+Processed vuln file 21
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/22.txt
+Processed vuln file 22
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/23.txt
+Processed vuln file 23
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/24.txt
+Processed vuln file 24
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/25.txt
+Processed vuln file 25
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/26.txt
+Processed vuln file 26
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/27.txt
+Processed vuln file 27
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/28.txt
+Processed vuln file 28
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/29.txt
+Processed vuln file 29
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/30.txt
+Processed vuln file 30
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/31.txt
+Processed vuln file 31
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/32.txt
+Processed vuln file 32
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/33.txt
+Processed vuln file 33
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/34.txt
+Processed vuln file 34
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/35.txt
+Processed vuln file 35
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/36.txt
+Processed vuln file 36
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/37.txt
+Processed vuln file 37
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/38.txt
+Processed vuln file 38
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/39.txt
+Processed vuln file 39
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/40.txt
+Processed vuln file 40
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/41.txt
+Processed vuln file 41
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/42.txt
+Processed vuln file 42
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/43.txt
+Processed vuln file 43
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/44.txt
+Processed vuln file 44
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/45.txt
+Processed vuln file 45
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/46.txt
+Processed vuln file 46
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/47.txt
+Processed vuln file 47
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/48.txt
+Processed vuln file 48
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/49.txt
+Processed vuln file 49
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/50.txt
+Processed vuln file 50
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/51.txt
+Processed vuln file 51
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/52.txt
+Processed vuln file 52
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/53.txt
+Processed vuln file 53
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/54.txt
+Processed vuln file 54
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/55.txt
+Processed vuln file 55
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/56.txt
+Processed vuln file 56
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/57.txt
+Processed vuln file 57
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/58.txt
+Processed vuln file 58
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/59.txt
+Processed vuln file 59
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/60.txt
+Processed vuln file 60
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/61.txt
+Processed vuln file 61
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/62.txt
+Processed vuln file 62
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/63.txt
+Processed vuln file 63
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/64.txt
+Processed vuln file 64
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/65.txt
+Processed vuln file 65
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/66.txt
+Processed vuln file 66
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/67.txt
+Processed vuln file 67
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/68.txt
+Processed vuln file 68
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/69.txt
+Processed vuln file 69
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/70.txt
+Processed vuln file 70
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/71.txt
+Processed vuln file 71
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/72.txt
+Processed vuln file 72
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/73.txt
+Processed vuln file 73
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/74.txt
+Processed vuln file 74
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/75.txt
+Processed vuln file 75
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/76.txt
+Processed vuln file 76
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/77.txt
+Processed vuln file 77
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/78.txt
+Processed vuln file 78
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/79.txt
+Processed vuln file 79
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/80.txt
+Processed vuln file 80
+Processed file saved as /home/antiransom/Unsupervised/Contracts/vuln/reentrancy/81.txt
+Processed vuln file 81
+
+
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/1.txt
+Processed clean file 1
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/2.txt
+Processed clean file 2
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/3.txt
+Processed clean file 3
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/4.txt
+Processed clean file 4
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/5.txt
+Processed clean file 5
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/6.txt
+Processed clean file 6
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/7.txt
+Processed clean file 7
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/8.txt
+Processed clean file 8
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/9.txt
+Processed clean file 9
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/10.txt
+Processed clean file 10
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/11.txt
+Processed clean file 11
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/12.txt
+Processed clean file 12
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/13.txt
+Processed clean file 13
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/14.txt
+Processed clean file 14
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/15.txt
+Processed clean file 15
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/16.txt
+Processed clean file 16
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/17.txt
+Processed clean file 17
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/18.txt
+Processed clean file 18
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/19.txt
+Processed clean file 19
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/20.txt
+Processed clean file 20
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/21.txt
+Processed clean file 21
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/22.txt
+Processed clean file 22
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/23.txt
+Processed clean file 23
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/24.txt
+Processed clean file 24
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/25.txt
+Processed clean file 25
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/26.txt
+Processed clean file 26
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/27.txt
+Processed clean file 27
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/28.txt
+Processed clean file 28
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/29.txt
+Processed clean file 29
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/30.txt
+Processed clean file 30
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/31.txt
+Processed clean file 31
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/32.txt
+Processed clean file 32
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/33.txt
+Processed clean file 33
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/34.txt
+Processed clean file 34
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/35.txt
+Processed clean file 35
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/36.txt
+Processed clean file 36
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/37.txt
+Processed clean file 37
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/38.txt
+Processed clean file 38
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/39.txt
+Processed clean file 39
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/40.txt
+Processed clean file 40
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/41.txt
+Processed clean file 41
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/42.txt
+Processed clean file 42
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/43.txt
+Processed clean file 43
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/44.txt
+Processed clean file 44
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/45.txt
+Processed clean file 45
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/46.txt
+Processed clean file 46
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/47.txt
+Processed clean file 47
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/48.txt
+Processed clean file 48
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/49.txt
+Processed clean file 49
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/50.txt
+Processed clean file 50
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/51.txt
+Processed clean file 51
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/52.txt
+Processed clean file 52
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/53.txt
+Processed clean file 53
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/54.txt
+Processed clean file 54
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/55.txt
+Processed clean file 55
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/56.txt
+Processed clean file 56
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/57.txt
+Processed clean file 57
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/58.txt
+Processed clean file 58
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/59.txt
+Processed clean file 59
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/60.txt
+Processed clean file 60
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/61.txt
+Processed clean file 61
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/62.txt
+Processed clean file 62
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/63.txt
+Processed clean file 63
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/64.txt
+Processed clean file 64
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/65.txt
+Processed clean file 65
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/66.txt
+Processed clean file 66
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/67.txt
+Processed clean file 67
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/68.txt
+Processed clean file 68
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/69.txt
+Processed clean file 69
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/70.txt
+Processed clean file 70
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/71.txt
+Processed clean file 71
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/72.txt
+Processed clean file 72
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/73.txt
+Processed clean file 73
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/74.txt
+Processed clean file 74
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/75.txt
+Processed clean file 75
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/76.txt
+Processed clean file 76
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/77.txt
+Processed clean file 77
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/78.txt
+Processed clean file 78
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/79.txt
+Processed clean file 79
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/80.txt
+Processed clean file 80
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/81.txt
+Processed clean file 81
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/82.txt
+Processed clean file 82
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/83.txt
+Processed clean file 83
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/84.txt
+Processed clean file 84
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/85.txt
+Processed clean file 85
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/86.txt
+Processed clean file 86
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/87.txt
+Processed clean file 87
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/88.txt
+Processed clean file 88
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/89.txt
+Processed clean file 89
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/90.txt
+Processed clean file 90
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/91.txt
+Processed clean file 91
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/92.txt
+Processed clean file 92
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/93.txt
+Processed clean file 93
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/94.txt
+Processed clean file 94
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/95.txt
+Processed clean file 95
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/96.txt
+Processed clean file 96
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/97.txt
+Processed clean file 97
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/98.txt
+Processed clean file 98
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/99.txt
+Processed clean file 99
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/100.txt
+Processed clean file 100
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/101.txt
+Processed clean file 101
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/102.txt
+Processed clean file 102
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/103.txt
+Processed clean file 103
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/104.txt
+Processed clean file 104
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/105.txt
+Processed clean file 105
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/106.txt
+Processed clean file 106
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/107.txt
+Processed clean file 107
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/108.txt
+Processed clean file 108
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/109.txt
+Processed clean file 109
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/110.txt
+Processed clean file 110
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/111.txt
+Processed clean file 111
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/112.txt
+Processed clean file 112
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/113.txt
+Processed clean file 113
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/114.txt
+Processed clean file 114
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/115.txt
+Processed clean file 115
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/116.txt
+Processed clean file 116
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/117.txt
+Processed clean file 117
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/118.txt
+Processed clean file 118
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/119.txt
+Processed clean file 119
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/120.txt
+Processed clean file 120
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/121.txt
+Processed clean file 121
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/122.txt
+Processed clean file 122
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/123.txt
+Processed clean file 123
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/124.txt
+Processed clean file 124
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/125.txt
+Processed clean file 125
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/126.txt
+Processed clean file 126
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/127.txt
+Processed clean file 127
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/128.txt
+Processed clean file 128
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/129.txt
+Processed clean file 129
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/130.txt
+Processed clean file 130
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/131.txt
+Processed clean file 131
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/132.txt
+Processed clean file 132
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/133.txt
+Processed clean file 133
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/134.txt
+Processed clean file 134
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/135.txt
+Processed clean file 135
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/136.txt
+Processed clean file 136
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/137.txt
+Processed clean file 137
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/138.txt
+Processed clean file 138
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/139.txt
+Processed clean file 139
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/140.txt
+Processed clean file 140
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/141.txt
+Processed clean file 141
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/142.txt
+Processed clean file 142
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/143.txt
+Processed clean file 143
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/144.txt
+Processed clean file 144
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/145.txt
+Processed clean file 145
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/146.txt
+Processed clean file 146
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/147.txt
+Processed clean file 147
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/148.txt
+Processed clean file 148
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/149.txt
+Processed clean file 149
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/150.txt
+Processed clean file 150
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/151.txt
+Processed clean file 151
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/152.txt
+Processed clean file 152
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/153.txt
+Processed clean file 153
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/154.txt
+Processed clean file 154
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/155.txt
+Processed clean file 155
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/156.txt
+Processed clean file 156
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/157.txt
+Processed clean file 157
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/158.txt
+Processed clean file 158
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/159.txt
+Processed clean file 159
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/160.txt
+Processed clean file 160
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/161.txt
+Processed clean file 161
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/162.txt
+Processed clean file 162
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/163.txt
+Processed clean file 163
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/164.txt
+Processed clean file 164
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/165.txt
+Processed clean file 165
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/166.txt
+Processed clean file 166
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/167.txt
+Processed clean file 167
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/168.txt
+Processed clean file 168
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/169.txt
+Processed clean file 169
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/170.txt
+Processed clean file 170
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/171.txt
+Processed clean file 171
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/172.txt
+Processed clean file 172
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/173.txt
+Processed clean file 173
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/174.txt
+Processed clean file 174
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/175.txt
+Processed clean file 175
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/176.txt
+Processed clean file 176
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/177.txt
+Processed clean file 177
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/178.txt
+Processed clean file 178
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/179.txt
+Processed clean file 179
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/180.txt
+Processed clean file 180
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/181.txt
+Processed clean file 181
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/182.txt
+Processed clean file 182
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/183.txt
+Processed clean file 183
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/184.txt
+Processed clean file 184
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/185.txt
+Processed clean file 185
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/186.txt
+Processed clean file 186
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/187.txt
+Processed clean file 187
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/188.txt
+Processed clean file 188
+Processed file saved as /home/antiransom/Unsupervised/Contracts/clean/189/189.txt
+Processed clean file 189
+
+Regex (1 or 0)? File 1.txt: 1
+File 2.txt: 1
+File 3.txt: 1
+File 4.txt: 1
+File 5.txt: 1
+File 6.txt: 1
+File 7.txt: 1
+File 8.txt: 1
+File 9.txt: 1
+File 10.txt: 1
+File 11.txt: 1
+File 12.txt: 1
+File 13.txt: 0
+File 14.txt: 1
+File 15.txt: 1
+File 16.txt: 1
+File 17.txt: 1
+File 18.txt: 1
+File 19.txt: 1
+File 20.txt: 1
+File 21.txt: 1
+File 22.txt: 1
+File 23.txt: 1
+File 24.txt: 1
+File 25.txt: 1
+File 26.txt: 1
+File 27.txt: 1
+File 28.txt: 1
+File 29.txt: 1
+File 30.txt: 1
+File 31.txt: 1
+File 32.txt: 1
+File 33.txt: 1
+File 34.txt: 1
+File 35.txt: 1
+File 36.txt: 1
+File 37.txt: 1
+File 38.txt: 1
+File 39.txt: 1
+File 40.txt: 1
+File 41.txt: 1
+File 42.txt: 1
+File 43.txt: 1
+File 44.txt: 1
+File 45.txt: 1
+File 46.txt: 1
+File 47.txt: 1
+File 48.txt: 1
+File 49.txt: 1
+File 50.txt: 1
+File 51.txt: 1
+File 52.txt: 1
+File 53.txt: 1
+File 54.txt: 1
+File 55.txt: 1
+File 56.txt: 1
+File 57.txt: 1
+File 58.txt: 1
+File 59.txt: 1
+File 60.txt: 1
+File 61.txt: 1
+File 62.txt: 1
+File 63.txt: 1
+File 64.txt: 1
+File 65.txt: 1
+File 66.txt: 0
+File 67.txt: 1
+File 68.txt: 0
+File 69.txt: 1
+File 70.txt: 0
+File 71.txt: 1
+File 72.txt: 0
+File 73.txt: 0
+File 74.txt: 1
+File 75.txt: 0
+File 76.txt: 0
+File 77.txt: 1
+File 78.txt: 0
+File 79.txt: 1
+File 80.txt: 1
+File 81.txt: 1
+File 1.txt: 0
+File 2.txt: 0
+File 3.txt: 0
+File 4.txt: 0
+File 5.txt: 0
+File 6.txt: 0
+File 7.txt: 0
+File 8.txt: 0
+File 9.txt: 0
+File 10.txt: 1
+File 11.txt: 0
+File 12.txt: 0
+File 13.txt: 0
+File 14.txt: 0
+File 15.txt: 0
+File 16.txt: 0
+File 17.txt: 0
+File 18.txt: 0
+File 19.txt: 0
+File 20.txt: 0
+File 21.txt: 0
+File 22.txt: 0
+File 23.txt: 0
+File 24.txt: 0
+File 25.txt: 0
+File 26.txt: 0
+File 27.txt: 0
+File 28.txt: 0
+File 29.txt: 0
+File 30.txt: 0
+File 31.txt: 0
+File 32.txt: 0
+File 33.txt: 0
+File 34.txt: 0
+File 35.txt: 0
+File 36.txt: 0
+File 37.txt: 0
+File 38.txt: 0
+File 39.txt: 0
+File 40.txt: 0
+File 41.txt: 0
+File 42.txt: 0
+File 43.txt: 0
+File 44.txt: 0
+File 45.txt: 0
+File 46.txt: 0
+File 47.txt: 0
+File 48.txt: 0
+File 49.txt: 0
+File 50.txt: 0
+File 51.txt: 0
+File 52.txt: 0
+File 53.txt: 0
+File 54.txt: 0
+File 55.txt: 0
+File 56.txt: 0
+File 57.txt: 0
+File 58.txt: 0
+File 59.txt: 0
+File 60.txt: 0
+File 61.txt: 0
+File 62.txt: 0
+File 63.txt: 0
+File 64.txt: 0
+File 65.txt: 0
+File 66.txt: 0
+File 67.txt: 0
+File 68.txt: 0
+File 69.txt: 0
+File 70.txt: 0
+File 71.txt: 0
+File 72.txt: 0
+File 73.txt: 0
+File 74.txt: 0
+File 75.txt: 0
+File 76.txt: 0
+File 77.txt: 0
+File 78.txt: 0
+File 79.txt: 0
+File 80.txt: 0
+File 81.txt: 0
+File 82.txt: 0
+File 83.txt: 0
+File 84.txt: 0
+File 85.txt: 0
+File 86.txt: 0
+File 87.txt: 0
+File 88.txt: 0
+File 89.txt: 0
+File 90.txt: 0
+File 91.txt: 0
+File 92.txt: 0
+File 93.txt: 0
+File 94.txt: 0
+File 95.txt: 0
+File 96.txt: 0
+File 97.txt: 0
+File 98.txt: 0
+File 99.txt: 0
+File 100.txt: 0
+File 101.txt: 0
+File 102.txt: 0
+File 103.txt: 0
+File 104.txt: 0
+File 105.txt: 0
+File 106.txt: 0
+File 107.txt: 0
+File 108.txt: 0
+File 109.txt: 0
+File 110.txt: 0
+File 111.txt: 0
+File 112.txt: 0
+File 113.txt: 0
+File 114.txt: 0
+File 115.txt: 0
+File 116.txt: 0
+File 117.txt: 0
+File 118.txt: 0
+File 119.txt: 0
+File 120.txt: 0
+File 121.txt: 0
+File 122.txt: 0
+File 123.txt: 0
+File 124.txt: 0
+File 125.txt: 0
+File 126.txt: 0
+File 127.txt: 0
+File 128.txt: 0
+File 129.txt: 0
+File 130.txt: 0
+File 131.txt: 0
+File 132.txt: 0
+File 133.txt: 0
+File 134.txt: 0
+File 135.txt: 0
+File 136.txt: 0
+File 137.txt: 0
+File 138.txt: 0
+File 139.txt: 0
+File 140.txt: 0
+File 141.txt: 0
+File 142.txt: 0
+File 143.txt: 0
+File 144.txt: 0
+File 145.txt: 0
+File 146.txt: 0
+File 147.txt: 0
+File 148.txt: 0
+File 149.txt: 0
+File 150.txt: 0
+File 151.txt: 0
+File 152.txt: 0
+File 153.txt: 0
+File 154.txt: 0
+File 155.txt: 0
+File 156.txt: 0
+File 157.txt: 0
+File 158.txt: 0
+File 159.txt: 0
+File 160.txt: 0
+File 161.txt: 0
+File 162.txt: 0
+File 163.txt: 0
+File 164.txt: 0
+File 165.txt: 0
+File 166.txt: 0
+File 167.txt: 0
+File 168.txt: 0
+File 169.txt: 0
+File 170.txt: 0
+File 171.txt: 0
+File 172.txt: 0
+File 173.txt: 0
+File 174.txt: 0
+File 175.txt: 0
+File 176.txt: 0
+File 177.txt: 0
+File 178.txt: 0
+File 179.txt: 0
+File 180.txt: 0
+File 181.txt: 0
+File 182.txt: 0
+File 183.txt: 0
+File 184.txt: 0
+File 185.txt: 0
+File 186.txt: 0
+File 187.txt: 0
+File 188.txt: 0
+File 189.txt: 0
+
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Reading file: 1.txt
+Reading file: 2.txt
+Reading file: 3.txt
+Reading file: 4.txt
+Reading file: 5.txt
+Reading file: 6.txt
+Reading file: 7.txt
+Reading file: 8.txt
+Reading file: 9.txt
+Reading file: 10.txt
+Reading file: 11.txt
+Reading file: 12.txt
+Reading file: 13.txt
+Reading file: 14.txt
+Reading file: 15.txt
+Reading file: 16.txt
+Reading file: 17.txt
+Reading file: 18.txt
+Reading file: 19.txt
+Reading file: 20.txt
+Reading file: 21.txt
+Reading file: 22.txt
+Reading file: 23.txt
+Reading file: 24.txt
+Reading file: 25.txt
+Reading file: 26.txt
+Reading file: 27.txt
+Reading file: 28.txt
+Reading file: 29.txt
+Reading file: 30.txt
+Reading file: 31.txt
+Reading file: 32.txt
+Reading file: 33.txt
+Reading file: 34.txt
+Reading file: 35.txt
+Reading file: 36.txt
+Reading file: 37.txt
+Reading file: 38.txt
+Reading file: 39.txt
+Reading file: 40.txt
+Reading file: 41.txt
+Reading file: 42.txt
+Reading file: 43.txt
+Reading file: 44.txt
+Reading file: 45.txt
+Reading file: 46.txt
+Reading file: 47.txt
+Reading file: 48.txt
+Reading file: 49.txt
+Reading file: 50.txt
+Reading file: 51.txt
+Reading file: 52.txt
+Reading file: 53.txt
+Reading file: 54.txt
+Reading file: 55.txt
+Reading file: 56.txt
+Reading file: 57.txt
+Reading file: 58.txt
+Reading file: 59.txt
+Reading file: 60.txt
+Reading file: 61.txt
+Reading file: 62.txt
+Reading file: 63.txt
+Reading file: 64.txt
+Reading file: 65.txt
+Reading file: 66.txt
+Reading file: 67.txt
+Reading file: 68.txt
+Reading file: 69.txt
+Reading file: 70.txt
+Reading file: 71.txt
+Reading file: 72.txt
+Reading file: 73.txt
+Reading file: 74.txt
+Reading file: 75.txt
+Reading file: 76.txt
+Reading file: 77.txt
+Reading file: 78.txt
+Reading file: 79.txt
+Reading file: 80.txt
+Reading file: 81.txt
+Reading file: 1.txt
+Reading file: 2.txt
+Reading file: 3.txt
+Reading file: 4.txt
+Reading file: 5.txt
+Reading file: 6.txt
+Reading file: 7.txt
+Reading file: 8.txt
+Reading file: 9.txt
+Reading file: 10.txt
+Reading file: 11.txt
+Reading file: 12.txt
+Reading file: 13.txt
+Reading file: 14.txt
+Reading file: 15.txt
+Reading file: 16.txt
+Reading file: 17.txt
+Reading file: 18.txt
+Reading file: 19.txt
+Reading file: 20.txt
+Reading file: 21.txt
+Reading file: 22.txt
+Reading file: 23.txt
+Reading file: 24.txt
+Reading file: 25.txt
+Reading file: 26.txt
+Reading file: 27.txt
+Reading file: 28.txt
+Reading file: 29.txt
+Reading file: 30.txt
+Reading file: 31.txt
+Reading file: 32.txt
+Reading file: 33.txt
+Reading file: 34.txt
+Reading file: 35.txt
+Reading file: 36.txt
+Reading file: 37.txt
+Reading file: 38.txt
+Reading file: 39.txt
+Reading file: 40.txt
+Reading file: 41.txt
+Reading file: 42.txt
+Reading file: 43.txt
+Reading file: 44.txt
+Reading file: 45.txt
+Reading file: 46.txt
+Reading file: 47.txt
+Reading file: 48.txt
+Reading file: 49.txt
+Reading file: 50.txt
+Reading file: 51.txt
+Reading file: 52.txt
+Reading file: 53.txt
+Reading file: 54.txt
+Reading file: 55.txt
+Reading file: 56.txt
+Reading file: 57.txt
+Reading file: 58.txt
+Reading file: 59.txt
+Reading file: 60.txt
+Reading file: 61.txt
+Reading file: 62.txt
+Reading file: 63.txt
+Reading file: 64.txt
+Reading file: 65.txt
+Reading file: 66.txt
+Reading file: 67.txt
+Reading file: 68.txt
+Reading file: 69.txt
+Reading file: 70.txt
+Reading file: 71.txt
+Reading file: 72.txt
+Reading file: 73.txt
+Reading file: 74.txt
+Reading file: 75.txt
+Reading file: 76.txt
+Reading file: 77.txt
+Reading file: 78.txt
+Reading file: 79.txt
+Reading file: 80.txt
+Reading file: 81.txt
+Reading file: 82.txt
+Reading file: 83.txt
+Reading file: 84.txt
+Reading file: 85.txt
+Reading file: 86.txt
+Reading file: 87.txt
+Reading file: 88.txt
+Reading file: 89.txt
+Reading file: 90.txt
+Reading file: 91.txt
+Reading file: 92.txt
+Reading file: 93.txt
+Reading file: 94.txt
+Reading file: 95.txt
+Reading file: 96.txt
+Reading file: 97.txt
+Reading file: 98.txt
+Reading file: 99.txt
+Reading file: 100.txt
+Reading file: 101.txt
+Reading file: 102.txt
+Reading file: 103.txt
+Reading file: 104.txt
+Reading file: 105.txt
+Reading file: 106.txt
+Reading file: 107.txt
+Reading file: 108.txt
+Reading file: 109.txt
+Reading file: 110.txt
+Reading file: 111.txt
+Reading file: 112.txt
+Reading file: 113.txt
+Reading file: 114.txt
+Reading file: 115.txt
+Reading file: 116.txt
+Reading file: 117.txt
+Reading file: 118.txt
+Reading file: 119.txt
+Reading file: 120.txt
+Reading file: 121.txt
+Reading file: 122.txt
+Reading file: 123.txt
+Reading file: 124.txt
+Reading file: 125.txt
+Reading file: 126.txt
+Reading file: 127.txt
+Reading file: 128.txt
+Reading file: 129.txt
+Reading file: 130.txt
+Reading file: 131.txt
+Reading file: 132.txt
+Reading file: 133.txt
+Reading file: 134.txt
+Reading file: 135.txt
+Reading file: 136.txt
+Reading file: 137.txt
+Reading file: 138.txt
+Reading file: 139.txt
+Reading file: 140.txt
+Reading file: 141.txt
+Reading file: 142.txt
+Reading file: 143.txt
+Reading file: 144.txt
+Reading file: 145.txt
+Reading file: 146.txt
+Reading file: 147.txt
+Reading file: 148.txt
+Reading file: 149.txt
+Reading file: 150.txt
+Reading file: 151.txt
+Reading file: 152.txt
+Reading file: 153.txt
+Reading file: 154.txt
+Reading file: 155.txt
+Reading file: 156.txt
+Reading file: 157.txt
+Reading file: 158.txt
+Reading file: 159.txt
+Reading file: 160.txt
+Reading file: 161.txt
+Reading file: 162.txt
+Reading file: 163.txt
+Reading file: 164.txt
+Reading file: 165.txt
+Reading file: 166.txt
+Reading file: 167.txt
+Reading file: 168.txt
+Reading file: 169.txt
+Reading file: 170.txt
+Reading file: 171.txt
+Reading file: 172.txt
+Reading file: 173.txt
+Reading file: 174.txt
+Reading file: 175.txt
+Reading file: 176.txt
+Reading file: 177.txt
+Reading file: 178.txt
+Reading file: 179.txt
+Reading file: 180.txt
+Reading file: 181.txt
+Reading file: 182.txt
+Reading file: 183.txt
+Reading file: 184.txt
+Reading file: 185.txt
+Reading file: 186.txt
+Reading file: 187.txt
+Reading file: 188.txt
+Reading file: 189.txt
+Document 1 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 2 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 3 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: number, Vector: [ 2.4594169  -0.5486624  -0.23463447 -0.12029056  0.5247183   0.73443115
+  0.18304582 -0.66332966  0.5126994  -0.25618628]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 4 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 5 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 6 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 7 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 8 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 9 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 10 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 11 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 12 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 13 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 14 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 15 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 16 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 17 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 18 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 19 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 20 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 21 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: number, Vector: [ 2.4594169  -0.5486624  -0.23463447 -0.12029056  0.5247183   0.73443115
+  0.18304582 -0.66332966  0.5126994  -0.25618628]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 22 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 23 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 24 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 25 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 26 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 27 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 28 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 29 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 30 filtered vectors:
+Word: odd, Vector: [ 1.3390023  -2.694427    2.9750254   0.11751089  0.35003394 -1.0937387
+  0.62664336  0.7177544   3.4957402  -1.8114511 ]
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 31 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 32 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 33 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 34 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 35 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 36 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 37 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 38 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 39 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 40 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 41 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 42 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: number, Vector: [ 2.4594169  -0.5486624  -0.23463447 -0.12029056  0.5247183   0.73443115
+  0.18304582 -0.66332966  0.5126994  -0.25618628]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 43 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 44 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 45 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 46 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 47 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 48 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 49 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 50 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 51 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 52 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 53 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 54 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: number, Vector: [ 2.4594169  -0.5486624  -0.23463447 -0.12029056  0.5247183   0.73443115
+  0.18304582 -0.66332966  0.5126994  -0.25618628]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 55 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 56 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 57 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 58 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 59 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 60 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 61 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 62 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 63 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 64 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 65 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Document 66 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 67 filtered vectors:
+Word: re, Vector: [ 1.7689022   0.42009354  1.0688418   1.4357784   0.05409207  0.11868615
+ -0.22854708  1.831849   -0.28229716 -1.7202297 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 68 filtered vectors:
+Word: userBalances, Vector: [ 1.8321668   0.80254275  0.07086799  1.5405272  -0.15623006 -0.6790083
+  0.31166247 -0.83495986  0.5851233  -0.17865537]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 69 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 70 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 71 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 72 filtered vectors:
+Word: userBalances, Vector: [ 1.8321668   0.80254275  0.07086799  1.5405272  -0.15623006 -0.6790083
+  0.31166247 -0.83495986  0.5851233  -0.17865537]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 73 filtered vectors:
+Word: userBalances, Vector: [ 1.8321668   0.80254275  0.07086799  1.5405272  -0.15623006 -0.6790083
+  0.31166247 -0.83495986  0.5851233  -0.17865537]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 74 filtered vectors:
+Word: credit, Vector: [ 1.2543073   0.28714827 -0.1910053   0.70352036 -0.6367317  -0.01439002
+  0.05838295  0.17775758  0.5804772  -0.22549957]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 75 filtered vectors:
+Word: userBalances, Vector: [ 1.8321668   0.80254275  0.07086799  1.5405272  -0.15623006 -0.6790083
+  0.31166247 -0.83495986  0.5851233  -0.17865537]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 76 filtered vectors:
+Word: userBalance, Vector: [ 2.1130574   0.5279811   0.46314222  1.5445479   0.98957825 -0.8835486
+  0.6060848  -0.19775346  0.15021983 -1.7119807 ]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 77 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 78 filtered vectors:
+Word: credit, Vector: [ 1.2543073   0.28714827 -0.1910053   0.70352036 -0.6367317  -0.01439002
+  0.05838295  0.17775758  0.5804772  -0.22549957]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 79 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 80 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 81 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 82 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 83 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Document 84 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 85 filtered vectors:
+Word: PFII, Vector: [ 0.8750529  -0.77811426  1.0879495   0.95733213  1.1508257   0.03499325
+  0.68925333 -0.42025876  0.37973458 -0.08271361]
+Document 86 filtered vectors:
+No words meeting TF-IDF threshold for Document 86, using zero vector.
+Document 87 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 88 filtered vectors:
+Word: I080, Vector: [ 0.31466103 -0.48559874  1.0364088   0.78238755  0.77764565  0.1478762
+  0.59104544 -0.32370114  0.50712544 -0.07474213]
+Document 89 filtered vectors:
+No words meeting TF-IDF threshold for Document 89, using zero vector.
+Document 90 filtered vectors:
+No words meeting TF-IDF threshold for Document 90, using zero vector.
+Document 91 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 92 filtered vectors:
+No words meeting TF-IDF threshold for Document 92, using zero vector.
+Document 93 filtered vectors:
+No words meeting TF-IDF threshold for Document 93, using zero vector.
+Document 94 filtered vectors:
+Word: participants, Vector: [ 0.609532    0.06410072  0.3309707  -0.18827632 -0.82760674  0.6956794
+ -0.26602626 -0.07755651  1.2935742  -0.3784338 ]
+Document 95 filtered vectors:
+No words meeting TF-IDF threshold for Document 95, using zero vector.
+Document 96 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 97 filtered vectors:
+No words meeting TF-IDF threshold for Document 97, using zero vector.
+Document 98 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 99 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 100 filtered vectors:
+No words meeting TF-IDF threshold for Document 100, using zero vector.
+Document 101 filtered vectors:
+Word: storageValue, Vector: [ 0.41078138  0.0350047   0.27669892  0.18448819  0.05007532  0.25500283
+  0.01680358 -0.03886314  0.5725293  -0.09037938]
+Document 102 filtered vectors:
+Word: AZOV, Vector: [ 0.36170635 -0.50982344  0.8975684   0.5249867   0.48837054  0.17901546
+  0.47858208 -0.29506436  0.55643106 -0.06675883]
+Document 103 filtered vectors:
+Word: I002, Vector: [ 0.40232274 -0.45524138  0.9795017   0.73334795  0.6066092   0.06889167
+  0.5137732  -0.45896026  0.5533344  -0.09463058]
+Document 104 filtered vectors:
+No words meeting TF-IDF threshold for Document 104, using zero vector.
+Document 105 filtered vectors:
+No words meeting TF-IDF threshold for Document 105, using zero vector.
+Document 106 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 107 filtered vectors:
+Word: cradle, Vector: [ 0.1647951  -0.15106973  0.16071403  0.17506838  0.02810356  0.03065953
+  0.12541068  0.00741834  0.20285425 -0.02214615]
+Word: CatsCradle, Vector: [ 0.10510378 -0.05455324  0.19295385  0.08885866 -0.04133276  0.01736026
+  0.01490676  0.04252018  0.2709101   0.00609993]
+Document 108 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 109 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 110 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 111 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 112 filtered vectors:
+No words meeting TF-IDF threshold for Document 112, using zero vector.
+Document 113 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 114 filtered vectors:
+No words meeting TF-IDF threshold for Document 114, using zero vector.
+Document 115 filtered vectors:
+No words meeting TF-IDF threshold for Document 115, using zero vector.
+Document 116 filtered vectors:
+Word: PFXVIII, Vector: [ 0.3557358  -0.44079134  0.7470932   0.41446325  0.58067626  0.14418462
+  0.3758883  -0.31101173  0.5286677  -0.13510278]
+Document 117 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 118 filtered vectors:
+No words meeting TF-IDF threshold for Document 118, using zero vector.
+Document 119 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 120 filtered vectors:
+No words meeting TF-IDF threshold for Document 120, using zero vector.
+Document 121 filtered vectors:
+No words meeting TF-IDF threshold for Document 121, using zero vector.
+Document 122 filtered vectors:
+No words meeting TF-IDF threshold for Document 122, using zero vector.
+Document 123 filtered vectors:
+Word: flag, Vector: [ 0.5087979  -0.27464285  0.11846271 -0.07049891 -0.2675397   0.6462527
+  0.38264427  0.05741179  0.6899103  -0.41936126]
+Document 124 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 125 filtered vectors:
+Word: PFII, Vector: [ 0.8750529  -0.77811426  1.0879495   0.95733213  1.1508257   0.03499325
+  0.68925333 -0.42025876  0.37973458 -0.08271361]
+Document 126 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: ELFToken, Vector: [ 0.62718135  0.15750471  0.7254685   0.29628685 -0.19590889 -0.05486132
+  0.18833345 -0.07122406  0.6248549   0.07172063]
+Document 127 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 128 filtered vectors:
+Word: wallet, Vector: [-0.03836549 -0.3210112   0.8741974  -0.20657995 -0.27851734  1.1790974
+  0.4979225  -0.34728318  1.2747804  -0.4946012 ]
+Document 129 filtered vectors:
+Word: I083, Vector: [ 0.2694088  -0.4968117   0.91697115  0.6939169   0.5639816   0.11822067
+  0.4905716  -0.3464019   0.41549256 -0.15179127]
+Document 130 filtered vectors:
+Word: dragonID, Vector: [ 1.2528609  -1.2202631   1.2410076  -0.7293779   0.6207485   0.38930586
+  1.2498853  -0.58160424  2.2051337   0.36069572]
+Word: number, Vector: [ 2.4594169  -0.5486624  -0.23463447 -0.12029056  0.5247183   0.73443115
+  0.18304582 -0.66332966  0.5126994  -0.25618628]
+Document 131 filtered vectors:
+No words meeting TF-IDF threshold for Document 131, using zero vector.
+Document 132 filtered vectors:
+Word: contractName, Vector: [ 0.3699136   0.00843771  1.136808   -0.10698988 -0.37324777  1.353589
+  0.33493328 -1.9935596   2.4191601  -2.2205758 ]
+Document 133 filtered vectors:
+Word: PolyusCdsTok20220328II, Vector: [ 0.22151355 -0.27816844  0.6112278   0.35940033  0.40762854  0.1392487
+  0.22622618 -0.19853863  0.5659602  -0.19027358]
+Document 134 filtered vectors:
+Word: I069, Vector: [ 0.3114576  -0.46827373  0.9296909   0.6799456   0.690702    0.12588346
+  0.48585063 -0.31969693  0.4923903  -0.13113062]
+Document 135 filtered vectors:
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 136 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 137 filtered vectors:
+No words meeting TF-IDF threshold for Document 137, using zero vector.
+Document 138 filtered vectors:
+No words meeting TF-IDF threshold for Document 138, using zero vector.
+Document 139 filtered vectors:
+No words meeting TF-IDF threshold for Document 139, using zero vector.
+Document 140 filtered vectors:
+No words meeting TF-IDF threshold for Document 140, using zero vector.
+Document 141 filtered vectors:
+No words meeting TF-IDF threshold for Document 141, using zero vector.
+Document 142 filtered vectors:
+Word: I090, Vector: [ 0.36725372 -0.6076185   0.92499536  0.7676101   0.6032611   0.0475326
+  0.50616103 -0.39965358  0.48847502 -0.10495847]
+Document 143 filtered vectors:
+No words meeting TF-IDF threshold for Document 143, using zero vector.
+Document 144 filtered vectors:
+No words meeting TF-IDF threshold for Document 144, using zero vector.
+Document 145 filtered vectors:
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Document 146 filtered vectors:
+No words meeting TF-IDF threshold for Document 146, using zero vector.
+Document 147 filtered vectors:
+No words meeting TF-IDF threshold for Document 147, using zero vector.
+Document 148 filtered vectors:
+Word: I008, Vector: [ 0.40089673 -0.45074898  1.0369506   0.7636185   0.64305204  0.13543586
+  0.53420866 -0.4264489   0.49439114 -0.07210273]
+Document 149 filtered vectors:
+Word: timo, Vector: [ 0.39049298 -0.28106868  0.8308828   0.5377743   0.45183057  0.02984801
+  0.24505281 -0.2320188   0.5175363  -0.18477792]
+Document 150 filtered vectors:
+No words meeting TF-IDF threshold for Document 150, using zero vector.
+Document 151 filtered vectors:
+No words meeting TF-IDF threshold for Document 151, using zero vector.
+Document 152 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 153 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 154 filtered vectors:
+No words meeting TF-IDF threshold for Document 154, using zero vector.
+Document 155 filtered vectors:
+No words meeting TF-IDF threshold for Document 155, using zero vector.
+Document 156 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 157 filtered vectors:
+Word: VINCI, Vector: [ 0.32444894 -0.26578227  0.95942926  0.57699406  0.49624106  0.19468974
+  0.3582119  -0.266726    0.46697095 -0.17249294]
+Document 158 filtered vectors:
+No words meeting TF-IDF threshold for Document 158, using zero vector.
+Document 159 filtered vectors:
+Word: ArtemineICOFactory, Vector: [ 0.29447523 -0.03986145  0.11659352  0.11203089  0.02034377  0.03746538
+ -0.00628078 -0.06504844  0.45984265  0.0438913 ]
+Document 160 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 161 filtered vectors:
+No words meeting TF-IDF threshold for Document 161, using zero vector.
+Document 162 filtered vectors:
+No words meeting TF-IDF threshold for Document 162, using zero vector.
+Document 163 filtered vectors:
+No words meeting TF-IDF threshold for Document 163, using zero vector.
+Document 164 filtered vectors:
+Word: NDD, Vector: [ 0.6725478  -0.5397789   0.78586614  0.43066064  0.88527465  0.16105452
+  0.6285922  -0.23080808  0.51428163  0.15466316]
+Document 165 filtered vectors:
+No words meeting TF-IDF threshold for Document 165, using zero vector.
+Document 166 filtered vectors:
+No words meeting TF-IDF threshold for Document 166, using zero vector.
+Document 167 filtered vectors:
+No words meeting TF-IDF threshold for Document 167, using zero vector.
+Document 168 filtered vectors:
+No words meeting TF-IDF threshold for Document 168, using zero vector.
+Document 169 filtered vectors:
+No words meeting TF-IDF threshold for Document 169, using zero vector.
+Document 170 filtered vectors:
+No words meeting TF-IDF threshold for Document 170, using zero vector.
+Document 171 filtered vectors:
+Word: PFII, Vector: [ 0.8750529  -0.77811426  1.0879495   0.95733213  1.1508257   0.03499325
+  0.68925333 -0.42025876  0.37973458 -0.08271361]
+Document 172 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 173 filtered vectors:
+No words meeting TF-IDF threshold for Document 173, using zero vector.
+Document 174 filtered vectors:
+No words meeting TF-IDF threshold for Document 174, using zero vector.
+Document 175 filtered vectors:
+Word: list, Vector: [ 0.93953747 -1.6446717   0.06877065 -0.08364617  0.18193746  0.6266411
+  0.825568   -0.74535626  2.0914361  -0.6549368 ]
+Document 176 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 177 filtered vectors:
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 178 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 179 filtered vectors:
+No words meeting TF-IDF threshold for Document 179, using zero vector.
+Document 180 filtered vectors:
+Word: PFXXXIII, Vector: [ 0.2952538  -0.5879756   0.9262075   0.56441236  0.62201995  0.23044303
+  0.33080244 -0.40382922  0.5419032  -0.10870646]
+Document 181 filtered vectors:
+No words meeting TF-IDF threshold for Document 181, using zero vector.
+Document 182 filtered vectors:
+No words meeting TF-IDF threshold for Document 182, using zero vector.
+Document 183 filtered vectors:
+No words meeting TF-IDF threshold for Document 183, using zero vector.
+Document 184 filtered vectors:
+No words meeting TF-IDF threshold for Document 184, using zero vector.
+Document 185 filtered vectors:
+No words meeting TF-IDF threshold for Document 185, using zero vector.
+Document 186 filtered vectors:
+No words meeting TF-IDF threshold for Document 186, using zero vector.
+Document 187 filtered vectors:
+No words meeting TF-IDF threshold for Document 187, using zero vector.
+Document 188 filtered vectors:
+Word: inData, Vector: [ 1.6150967 -1.9330494  2.2540574  0.2771769 -2.1142538  1.7262176
+  2.7452214  1.3143593  2.1045976 -1.2859309]
+Document 189 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 190 filtered vectors:
+No words meeting TF-IDF threshold for Document 190, using zero vector.
+Document 191 filtered vectors:
+Word: I096, Vector: [ 0.3517915  -0.52019197  0.9707056   0.8389446   0.589699    0.02252914
+  0.42790172 -0.35918203  0.5744025  -0.0373884 ]
+Document 192 filtered vectors:
+No words meeting TF-IDF threshold for Document 192, using zero vector.
+Document 193 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 194 filtered vectors:
+Word: num, Vector: [ 0.7090723  -0.00616448  0.3058709   0.23876162 -0.13310494 -0.89025843
+ -0.11679338 -0.06788915  1.4339147  -0.46757013]
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 195 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 196 filtered vectors:
+No words meeting TF-IDF threshold for Document 196, using zero vector.
+Document 197 filtered vectors:
+No words meeting TF-IDF threshold for Document 197, using zero vector.
+Document 198 filtered vectors:
+No words meeting TF-IDF threshold for Document 198, using zero vector.
+Document 199 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 200 filtered vectors:
+No words meeting TF-IDF threshold for Document 200, using zero vector.
+Document 201 filtered vectors:
+No words meeting TF-IDF threshold for Document 201, using zero vector.
+Document 202 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 203 filtered vectors:
+Word: I068, Vector: [ 0.2866268  -0.4223705   0.95015025  0.65480185  0.595669    0.02699893
+  0.46288273 -0.4015911   0.60141665 -0.13486598]
+Document 204 filtered vectors:
+Word: I063, Vector: [ 0.42033014 -0.4988454   0.95660996  0.7085224   0.69374895  0.0588888
+  0.5398429  -0.37507942  0.5717092  -0.07806974]
+Document 205 filtered vectors:
+No words meeting TF-IDF threshold for Document 205, using zero vector.
+Document 206 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 207 filtered vectors:
+Word: PFXIII, Vector: [ 0.44062024 -0.6227606   0.89200217  0.81903976  0.67743933  0.18327768
+  0.3533872  -0.4245182   0.589888   -0.17715472]
+Document 208 filtered vectors:
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 209 filtered vectors:
+No words meeting TF-IDF threshold for Document 209, using zero vector.
+Document 210 filtered vectors:
+No words meeting TF-IDF threshold for Document 210, using zero vector.
+Document 211 filtered vectors:
+No words meeting TF-IDF threshold for Document 211, using zero vector.
+Document 212 filtered vectors:
+No words meeting TF-IDF threshold for Document 212, using zero vector.
+Document 213 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 214 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 215 filtered vectors:
+No words meeting TF-IDF threshold for Document 215, using zero vector.
+Document 216 filtered vectors:
+Word: destinationAddress, Vector: [ 0.5143311  -0.01740122  0.2237306   0.2597091  -0.04926252  0.15778367
+  0.18883243 -0.01108293  0.6162289  -0.25158188]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 217 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 218 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Document 219 filtered vectors:
+No words meeting TF-IDF threshold for Document 219, using zero vector.
+Document 220 filtered vectors:
+No words meeting TF-IDF threshold for Document 220, using zero vector.
+Document 221 filtered vectors:
+No words meeting TF-IDF threshold for Document 221, using zero vector.
+Document 222 filtered vectors:
+No words meeting TF-IDF threshold for Document 222, using zero vector.
+Document 223 filtered vectors:
+No words meeting TF-IDF threshold for Document 223, using zero vector.
+Document 224 filtered vectors:
+No words meeting TF-IDF threshold for Document 224, using zero vector.
+Document 225 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 226 filtered vectors:
+No words meeting TF-IDF threshold for Document 226, using zero vector.
+Document 227 filtered vectors:
+Word: data, Vector: [ 1.221936    1.1217153   0.14648597  0.8851851  -0.15248935 -2.5853207
+  1.0939215   0.303105    2.5358264  -1.6510545 ]
+Document 228 filtered vectors:
+Word: number, Vector: [ 2.4594169  -0.5486624  -0.23463447 -0.12029056  0.5247183   0.73443115
+  0.18304582 -0.66332966  0.5126994  -0.25618628]
+Document 229 filtered vectors:
+No words meeting TF-IDF threshold for Document 229, using zero vector.
+Document 230 filtered vectors:
+Word: NDD, Vector: [ 0.6725478  -0.5397789   0.78586614  0.43066064  0.88527465  0.16105452
+  0.6285922  -0.23080808  0.51428163  0.15466316]
+Word: PAL, Vector: [ 0.36680284 -0.55636686  0.6873085   0.45366412  0.4740528   0.23146859
+  0.31493515 -0.21937732  0.6505689  -0.04515693]
+Document 231 filtered vectors:
+No words meeting TF-IDF threshold for Document 231, using zero vector.
+Document 232 filtered vectors:
+No words meeting TF-IDF threshold for Document 232, using zero vector.
+Document 233 filtered vectors:
+No words meeting TF-IDF threshold for Document 233, using zero vector.
+Document 234 filtered vectors:
+No words meeting TF-IDF threshold for Document 234, using zero vector.
+Document 235 filtered vectors:
+No words meeting TF-IDF threshold for Document 235, using zero vector.
+Document 236 filtered vectors:
+No words meeting TF-IDF threshold for Document 236, using zero vector.
+Document 237 filtered vectors:
+No words meeting TF-IDF threshold for Document 237, using zero vector.
+Document 238 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 239 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: wallet, Vector: [-0.03836549 -0.3210112   0.8741974  -0.20657995 -0.27851734  1.1790974
+  0.4979225  -0.34728318  1.2747804  -0.4946012 ]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 240 filtered vectors:
+No words meeting TF-IDF threshold for Document 240, using zero vector.
+Document 241 filtered vectors:
+Word: I022, Vector: [ 0.36687818 -0.4261393   0.9433042   0.79031914  0.5285642   0.19712545
+  0.48858202 -0.39612252  0.5593489   0.01174842]
+Document 242 filtered vectors:
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Document 243 filtered vectors:
+Word: wallet, Vector: [-0.03836549 -0.3210112   0.8741974  -0.20657995 -0.27851734  1.1790974
+  0.4979225  -0.34728318  1.2747804  -0.4946012 ]
+Document 244 filtered vectors:
+No words meeting TF-IDF threshold for Document 244, using zero vector.
+Document 245 filtered vectors:
+No words meeting TF-IDF threshold for Document 245, using zero vector.
+Document 246 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 247 filtered vectors:
+No words meeting TF-IDF threshold for Document 247, using zero vector.
+Document 248 filtered vectors:
+No words meeting TF-IDF threshold for Document 248, using zero vector.
+Document 249 filtered vectors:
+No words meeting TF-IDF threshold for Document 249, using zero vector.
+Document 250 filtered vectors:
+No words meeting TF-IDF threshold for Document 250, using zero vector.
+Document 251 filtered vectors:
+Word: I076, Vector: [ 0.5024888  -0.45804426  1.0882688   0.69062114  0.6022206   0.0775777
+  0.5219815  -0.34662622  0.47430468 -0.07463238]
+Document 252 filtered vectors:
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Document 253 filtered vectors:
+No words meeting TF-IDF threshold for Document 253, using zero vector.
+Document 254 filtered vectors:
+No words meeting TF-IDF threshold for Document 254, using zero vector.
+Document 255 filtered vectors:
+No words meeting TF-IDF threshold for Document 255, using zero vector.
+Document 256 filtered vectors:
+No words meeting TF-IDF threshold for Document 256, using zero vector.
+Document 257 filtered vectors:
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Document 258 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Document 259 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 260 filtered vectors:
+Word: I100, Vector: [ 0.49768758 -0.40878394  0.86681634  0.70150083  0.6430308   0.06847861
+  0.47015506 -0.41777503  0.49831071 -0.07375753]
+Document 261 filtered vectors:
+No words meeting TF-IDF threshold for Document 261, using zero vector.
+Document 262 filtered vectors:
+Word: call, Vector: [ 2.9067461   1.3722895   0.54911065  1.3484906   0.6037548   0.3050011
+ -0.39803204  0.72145456 -0.22961941 -1.2552942 ]
+Document 263 filtered vectors:
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: tokens, Vector: [ 1.8042619   1.3366963   1.5073497   1.3551553  -0.12697753 -0.47982797
+ -0.30644116  1.2081772   0.07899699 -0.31219554]
+Document 264 filtered vectors:
+No words meeting TF-IDF threshold for Document 264, using zero vector.
+Document 265 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 266 filtered vectors:
+No words meeting TF-IDF threshold for Document 266, using zero vector.
+Document 267 filtered vectors:
+No words meeting TF-IDF threshold for Document 267, using zero vector.
+Document 268 filtered vectors:
+No words meeting TF-IDF threshold for Document 268, using zero vector.
+Document 269 filtered vectors:
+Word: mint, Vector: [-0.22102673 -0.74530554 -0.806657    1.9335109  -0.72865236 -0.24106298
+  3.0136595  -0.9180439   2.02558    -0.24745761]
+Word: amount, Vector: [ 0.444665    1.2299984   0.4743549   1.5615052  -0.33305466 -0.22391786
+ -0.14340831  0.5632899   1.0169852  -0.12002654]
+Word: account, Vector: [-0.300699    2.0783298   0.2754856   1.7643548   0.1372456   0.6532732
+  0.880629    0.71202326  1.8745403  -0.77757937]
+Document 270 filtered vectors:
+Word: wallet, Vector: [-0.03836549 -0.3210112   0.8741974  -0.20657995 -0.27851734  1.1790974
+  0.4979225  -0.34728318  1.2747804  -0.4946012 ]
+
+Length of word_vector_tfidf: 48
+
+Words with TF-IDF score > 0.7 (sorted by score):
+Word: ArtemineICOFactory, Score: 1.0
+Word: data, Score: 0.9934960931982473
+Word: mint, Score: 0.9812110531337767
+Word: VINCI, Score: 0.9419885622345353
+Word: re, Score: 0.911094908233023
+Word: flag, Score: 0.8884637602974663
+Word: credit, Score: 0.8878060438575006
+Word: userBalances, Score: 0.8876163489854632
+Word: contractName, Score: 0.8869295791428714
+Word: tokens, Score: 0.8810028879255933
+Word: wallet, Score: 0.8348809007523281
+Word: I080, Score: 0.8259470087416697
+Word: I002, Score: 0.8259470087416697
+Word: I083, Score: 0.8259470087416697
+Word: I069, Score: 0.8259470087416697
+Word: I090, Score: 0.8259470087416697
+Word: I008, Score: 0.8259470087416697
+Word: I096, Score: 0.8259470087416697
+Word: I068, Score: 0.8259470087416697
+Word: I063, Score: 0.8259470087416697
+Word: I022, Score: 0.8259470087416697
+Word: I076, Score: 0.8259470087416697
+Word: I100, Score: 0.8259470087416697
+Word: storageValue, Score: 0.8156199704327088
+Word: PolyusCdsTok20220328II, Score: 0.8069604803932986
+Word: account, Score: 0.7935782699506393
+Word: amount, Score: 0.7841669498653793
+Word: number, Score: 0.7770911052081991
+Word: odd, Score: 0.7758753687924632
+Word: PFXVIII, Score: 0.7757413834236121
+Word: PFXXXIII, Score: 0.7757413834236121
+Word: inData, Score: 0.7713088061660902
+Word: NDD, Score: 0.7508992824638886
+Word: ELFToken, Score: 0.7364434166998456
+Word: list, Score: 0.7288000578514392
+Word: participants, Score: 0.7259267324915186
+Word: AZOV, Score: 0.7213545649026467
+Word: timo, Score: 0.7204869229225098
+Word: PFII, Score: 0.7153575459021865
+Word: PAL, Score: 0.7131134399770478
+Word: num, Score: 0.7130693413150576
+Word: userBalance, Score: 0.711215416402707
+Word: CatsCradle, Score: 0.7071067811865476
+Word: cradle, Score: 0.7071067811865476
+Word: PFXIII, Score: 0.7056390201230017
+Word: destinationAddress, Score: 0.7044385232792112
+Word: dragonID, Score: 0.7008149353932821
+Word: call, Score: 0.08423691507075012
