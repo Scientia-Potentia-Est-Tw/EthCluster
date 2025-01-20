@@ -3,35 +3,35 @@ import numpy as np
 
 def kmeans(X, k, max_iters=100, tol=1e-4):
     """
-    使用PyTorch實現K-means算法
+    Using PyTorch implement K-means algorithm
     
     參數:
-    X: torch.Tensor, 形狀為 (n_samples, n_features)
-    k: int, 聚類的數量
-    max_iters: int, 最大迭代次數
-    tol: float, 收斂閾值
+    X: torch.Tensor, shape as (n_samples, n_features)
+    k: int, number of cluster
+    max_iters: int, maximum iteration
+    tol: float, threshold
     
-    返回:
-    centroids: torch.Tensor, 形狀為 (k, n_features)
-    labels: torch.Tensor, 形狀為 (n_samples,)
+    return:
+    centroids: torch.Tensor, shape as (k, n_features)
+    labels: torch.Tensor, shape as (n_samples,)
     """
     
-    # 選擇k個隨機數據點作為初始中心
+    # Randomly choose k data point as initial center
     n_samples = X.shape[0]
     centroid_indices = torch.randperm(n_samples)[:k]
     centroids = X[centroid_indices]
     
     for _ in range(max_iters):
-        # 計算每個數據點到每個中心的距離
+        # Calculate the distance for each data point to central
         distances = torch.cdist(X, centroids)
         
-        # 為每個數據點分配最近的中心
+        # Arrange each data point to most shorest central
         labels = torch.argmin(distances, dim=1)
         
-        # 更新中心
+        # Update central
         new_centroids = torch.stack([X[labels == i].mean(dim=0) for i in range(k)])
         
-        # 檢查是否收斂
+        # Check whether convergence
         if torch.all(torch.abs(new_centroids - centroids) < tol):
             break
         
@@ -39,14 +39,14 @@ def kmeans(X, k, max_iters=100, tol=1e-4):
     
     return centroids, labels
 
-# 使用示例
+# Example
 if __name__ == "__main__":
-    # 生成隨機數據
+    # Generate randomly data
     np.random.seed(0)
     X = np.random.randn(1000, 2)
     X = torch.tensor(X, dtype=torch.float32)
 
-    # 運行K-means
+    # Execute K-means
     k = 3
     centroids, labels = kmeans(X, k)
 
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     print("\nFirst few labels:")
     print(labels[:10])
 
-    # 可視化結果（如果需要）
+    # Matplot display the clustering result
     import matplotlib.pyplot as plt
 
     plt.figure(figsize=(10, 8))

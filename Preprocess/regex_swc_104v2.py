@@ -13,14 +13,14 @@ def detect_swc_104(contract_code):
     lines = contract_code.split('\n')
     for i, line in enumerate(lines):
         if re.search(pattern, line):
-                return True, f"可能的SWC-104漏洞在第{i+1}行: {line.strip()}"
-    return False, "沒有檢測到明顯的SWC-104漏洞"
+                return True, f"Possible SWC-104 Vulnerability in {i+1} row: {line.strip()}"
+    return False, "Didn't check the SWC-104 vulnerability"
 
 def scan_directory(directory):
     results = []
     for root, dirs, files in os.walk(directory):
         for file in files:
-            if file.endswith('.sol'):  # 假設所有的Solidity文件都以.sol結尾
+            if file.endswith('.sol'):  # Assume all Solidity files ending .sol
                 file_path = os.path.join(root, file)
                 with open(file_path, 'r', encoding='utf-8') as f:
                     contract_code = f.read()
@@ -41,12 +41,12 @@ def main():
     vulnerable_count = sum(1 for r in results if r['is_vulnerable'])
     
     for result in results:
-        print(f"文件: {result['file']}")
-        print(f"結果: {'易受攻擊' if result['is_vulnerable'] else '未檢測到漏洞'}")
-        print(f"詳情: {result['message']}")
+        print(f"File: {result['file']}")
+        print(f"Result: {'Vulnerable' if result['is_vulnerable'] else 'Safe'}")
+        print(f"Detailed: {result['message']}")
         print("-" * 50)
     
-    print(f"\n掃描完成。檢查了 {len(results)} 個文件，發現 {vulnerable_count} 個潛在的SWC-104漏洞。\n")
+    print(f"\nScan Done. Check amounts of {len(results)} files, find {vulnerable_count} potential SWC-104 vulnerability.\n")
 
 if __name__ == "__main__":
     main()

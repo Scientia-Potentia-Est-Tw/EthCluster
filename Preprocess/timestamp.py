@@ -14,6 +14,6 @@ def check_files(n):
                 else:
                     print(f"File {file_name}: Not detected.")
 
-# 假設 n 是你要讀取的檔案數量
-n = 523  # 例如你有 10 個 .sol 檔案
+# Assume n is the number of files what you want read
+n = 523  # Assume you would like read 10 .sol files
 check_files(n)

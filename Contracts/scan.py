@@ -2,8 +2,8 @@ import os
 import subprocess
 import re
 
-contract_folder = '/home/antiransom/Unsupervised/Contracts/smartbugs-wild/contracts'
-output_folder = '/home/antiransom/Unsupervised/Contracts/scan/smartbugs-wild'
+contract_folder = '../Contracts/smartbugs-wild/contracts'
+output_folder = '../Contracts/scan/smartbugs-wild'
 os.makedirs(output_folder, exist_ok=True)
 
 sol_files = [file for file in os.listdir(contract_folder) if file.endswith('.sol')]

@@ -8,7 +8,7 @@ import pickle
 import numpy as np
 from kmeans_pytorch import kmeans
 
-# 請依據訓練模型修改參數
+# Modify the parameters depends on training model
 vulnerable = "timestamp"
 running_device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 model = Word2Vec.load(f"../Contracts/vuln/{vulnerable}/mix/word2vec_model.model")
@@ -19,14 +19,14 @@ cluster_elements = [[] for _ in range(num_clusters)]
 count_elements = [0] * num_clusters
 
 def extract_number(filename):
-    # 從檔名中提取數字
+    # Extract the numbers from file name
     match = re.search(r'\d+', filename)
     return int(match.group()) if match else 0
 
 def get_average_vector(words):
     word_vectors = [model.wv[word] for word in words if word in model.wv]
     
-    # 計算詞向量的平均值來表示文本
+    # Calculate the average value of word vector for text
     return np.mean(word_vectors, axis=0) if word_vectors else np.zeros(model.vector_size)
 
 def predict_cluster(data_vector, cluster_centers):
